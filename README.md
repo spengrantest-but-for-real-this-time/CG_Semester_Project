@@ -2,7 +2,7 @@
 Spencer Tester's Repo for the Semester project for computer Graphics
 
 This project only has one participant, Spencer Tester (100653129).
-The trello Board for this project can be found at https://trello.com/b/UvZTJvQu/cg-project
+The trello Board for this project can be found at https://trello.com/b/P7gUyvRC/cg-project
 
 The elevator pitch can be found here: https://drive.google.com/file/d/1_7xWDOqrIyMjBKoIwdIgnJpRVnAPnh98/view?usp=sharing 
 If you wish, the google slides file and the rough script for the pitch can be found here: https://drive.google.com/drive/folders/1jFsTV63k02a3sIN3FOfIBd0xLhi-Sy-V?usp=sharing
